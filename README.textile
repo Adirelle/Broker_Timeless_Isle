@@ -1,5 +1,5 @@
-==== Broker_Timeless_Isle
+h1. Broker_Timeless_Isle
 
 A LDB feed to displays weekly quest and chest statuses.
 
-Note: this addon requries a [[https://github.com/tekkub/libdatabroker-1-1/wiki/Addons-using-LDB#data-display-addons|LDB display]] addon.
+Note: this addon requries a "LDB display":https://github.com/tekkub/libdatabroker-1-1/wiki/Addons-using-LDB#data-display-addons addon.
