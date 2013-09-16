@@ -1,0 +1,19 @@
+## Interface: 50400
+
+## Title: Broker: Timeless Isle
+## Notes: Displays weekly quest and chest statuses.
+## Author: Adirelle
+## Version: @project-version@ 
+## X-Date: @project-date-iso@
+## X-License: GPL v3 or later
+## OptionalDeps: LibStub, CallbackHandler-1.0
+## SavedVariables: Broker_Timeless_IsleDB
+
+#@no-lib-strip@
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+#@end-no-lib-strip@
+
+libs\LibDataBroker-1.1.lua
+
+Broker_Timeless_Isle.lua
